@@ -197,7 +197,7 @@ $(document).ready(function () {
             end: new Date('Apr 26, 2025 22:00'),
 
             // Event Address
-            address: 'Cafe Mystique - c/o Jan Shoba &, Justice Mahomed St, Pretoria, 0011 ',
+            address: 'Cafe Mystique - corner of Jan Shoba and Justice Mahomed St, Pretoria, 0011 ',
 
             // Event Description
             description: "We can't wait to see you on our big day. For any queries or issues, please contact Nicholas or Rebecca."
