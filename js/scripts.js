@@ -200,7 +200,7 @@ $(document).ready(function () {
             address: 'Cafe Mystique - c/o Jan Shoba &, Justice Mahomed St, Pretoria, 0011 ',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Amit Roy at +91 9876543210."
+            description: "We can't wait to see you on our big day. For any queries or issues, please contact Nicholas or Rebecca."
         }
     });
 
